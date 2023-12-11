@@ -1,0 +1,1 @@
+### [Neelfrost/nvim-config: Personal neovim configuration⚡🪟 - Fully configured for LaTeX, Python, Lua, C#, HTML, CSS, and Javascript - Neovim version: v0.9+ (github.com)](https://github.com/Neelfrost/nvim-config)

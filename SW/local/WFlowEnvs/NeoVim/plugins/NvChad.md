@@ -1,0 +1,1 @@
+### [NvChad/NvChad: Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.](https://github.com/NvChad/NvChad)

@@ -1,0 +1,4 @@
+---
+Značka: McKinley
+Krabice:
+---

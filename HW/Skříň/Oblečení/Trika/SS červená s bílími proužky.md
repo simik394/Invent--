@@ -1,0 +1,4 @@
+---
+Used: true
+Krabice: "[[Vyprat]]"
+---
