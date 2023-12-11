@@ -1,3 +1,6 @@
+# Commands
+![[delete-examples]]
+
 # Tutorial
 [vim tutorial - Hledat](https://www.bing.com/search?pglt=675&q=vim+tutorial&cvid=87484be5d582449c897edb000f7e4c7e&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxBFGDwyBggIEEUYPNIBCDcxODBqMGoxqAIAsAIA&FORM=ANNTA1&PC=EDBBAN)
 ## config
