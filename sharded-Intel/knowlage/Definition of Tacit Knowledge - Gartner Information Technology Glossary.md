@@ -1,0 +1,3 @@
+Clipped from: [https://www.gartner.com/en/information-technology/glossary/tacit-knowledge](https://www.gartner.com/en/information-technology/glossary/tacit-knowledge)
+
+The personal knowledge resident within the mind, behavior and perceptions of individuals. Tacit knowledge includes skills, experiences, insight, intuition and judgment. Tacit knowledge is typically shared through discussion, stories, analogies and person-to-person interaction and is, therefore, difficult to capture or represent in explicit form. Because individuals continually add personal knowledge, which changes behavior and perceptions, tacit knowledge is, by definition, uncaptured.
