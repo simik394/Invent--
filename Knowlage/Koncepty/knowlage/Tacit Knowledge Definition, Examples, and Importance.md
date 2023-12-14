@@ -18,7 +18,7 @@ But, it’s _not impossible_ to do so.
 
 In this article, we’re going to dig deep into the concept of **tacit knowledge**.
 
-![Pyramid that explains tacit and explicit knowledge](Inventář/sharded-Intel/knowlage/Tacit%20Knowledge%20Definition,%20Examples,%20and%20Importance%201.md/Exported%20image%2020231213001301-0.png)
+![Pyramid that explains tacit and explicit knowledge](Inventář/Knowlage/Koncepty/knowlage/Tacit%20Knowledge%20Definition,%20Examples,%20and%20Importance%201.md/Exported%20image%2020231213001301-0.png)
 
   
   
@@ -38,7 +38,7 @@ Tacit knowledge is sometimes known by a few alternate terms, such as:
 
 The term “tribal knowledge” refers to the fact that tacit knowledge often spreads throughout an organization without being documented—and possibly never actively pointed out or discussed.
 
-![Tacit knowledge: an illustration of people sharing knowledges](Inventář/sharded-Intel/knowlage/Tacit%20Knowledge%20Definition,%20Examples,%20and%20Importance%201.md/Exported%20image%2020231213001301-1.png)
+![Tacit knowledge: an illustration of people sharing knowledges](Inventář/Knowlage/Koncepty/knowlage/Tacit%20Knowledge%20Definition,%20Examples,%20and%20Importance%201.md/Exported%20image%2020231213001301-1.png)
 
 ([Source](https://media-exp1.licdn.com/dms/image/C4E12AQGMyUdN1Ue_2g/article-cover_image-shrink_600_2000/0?e=1594252800&v=beta&t=yqKamZ1udvbfoIWRwFVnSkjTRReZCgMbQ7f8T10f488))
 
@@ -96,7 +96,7 @@ Relying on this osmosis-like transfer of knowledge leaves up to chance whether i
 
 Worse yet, it may be the case that your team members don’t know what they don’t know. Basically, this means they’ll continue to use a sub-par approach to their duties simply because they aren’t aware that there’s a better way to do them.
 
-![Tacit knowledge: knows vs unknowns](Inventář/sharded-Intel/knowlage/Tacit%20Knowledge%20Definition,%20Examples,%20and%20Importance%201.md/Exported%20image%2020231213001301-2.png)
+![Tacit knowledge: knows vs unknowns](Inventář/Knowlage/Koncepty/knowlage/Tacit%20Knowledge%20Definition,%20Examples,%20and%20Importance%201.md/Exported%20image%2020231213001301-2.png)
 
 ([Source](https://miro.medium.com/max/1896/1*XH0qveXUWFMFmkhRS75_8Q.png))
 

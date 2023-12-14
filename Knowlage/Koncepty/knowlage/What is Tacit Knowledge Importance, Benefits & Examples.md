@@ -1,6 +1,6 @@
 Clipped from: [https://document360.com/blog/tacit-knowledge/](https://document360.com/blog/tacit-knowledge/)
 
-![what-is-tacit-knowledge](Inventář/sharded-Intel/knowlage/Tacit%20knowlage%201.md/Exported%20image%2020231213001303-0.jpeg)
+![what-is-tacit-knowledge](Inventář/Knowlage/Koncepty/knowlage/Tacit%20knowlage%201.md/Exported%20image%2020231213001303-0.jpeg)
 
 When you think you’ve seen it all, one thing rings true — the only certainty is uncertainty.
 
@@ -54,7 +54,7 @@ Tacit Knowledge vs. Explicit Knowledge
 
 Generally speaking, the different types of knowledge can be categorized into two primary types — explicit and tacit knowledge.
 
-![](Inventář/sharded-Intel/knowlage/Tacit%20knowlage%201.md/Exported%20image%2020231213001303-1.png)
+![](Inventář/Knowlage/Koncepty/knowlage/Tacit%20knowlage%201.md/Exported%20image%2020231213001303-1.png)
 
 ### Explicit Knowledge
 
@@ -140,7 +140,7 @@ Create a self-service Knowledge Base for your teams, customers & organizations.
 
 [Book a Demo](https://document360.com/request-demo/)
 
-![Document360](Inventář/sharded-Intel/knowlage/Tacit%20knowlage%201.md/Exported%20image%2020231213001303-2.png)
+![Document360](Inventář/Knowlage/Koncepty/knowlage/Tacit%20knowlage%201.md/Exported%20image%2020231213001303-2.png)
 
 ## How Can Companies Promote Tacit Knowledge Thinking?
 
@@ -184,7 +184,7 @@ Here are some suggestions on how to use standard tools to capture tacit knowledg
 
 ### 1. Marketing Tools
 
-![Marketing-tools](Inventář/sharded-Intel/knowlage/Tacit%20knowlage%201.md/Exported%20image%2020231213001303-3.png)
+![Marketing-tools](Inventář/Knowlage/Koncepty/knowlage/Tacit%20knowlage%201.md/Exported%20image%2020231213001303-3.png)
 
 - **Email marketing campaigns** **—** Email marketing is effective because everyone has an email and opens it. To use this tool to promote tacit knowledge, send out different campaigns and month over month and year over year metrics comparisons.
 - **Newsletters —** Send newsletters to promote new events and share promotions or content. There are different email marketing software that supports A/B testing and monitor metrics. Businesses shouldn’t only use newsletters exclusively for external communication; you can write internal newsletters to demonstrate good examples of leadership.
@@ -192,7 +192,7 @@ Here are some suggestions on how to use standard tools to capture tacit knowledg
 
 ### 2. Customer Service Tools
 
-![customer-service-tools](Inventář/sharded-Intel/knowlage/Tacit%20knowlage%201.md/Exported%20image%2020231213001303-4.png)
+![customer-service-tools](Inventář/Knowlage/Koncepty/knowlage/Tacit%20knowlage%201.md/Exported%20image%2020231213001303-4.png)
 
 **Call logging and recording** — Call center representatives can use [call logging and recording software](https://www.hubspot.com/products/call-recording) to track customer interactions. These recordings can be used in training.
 
@@ -204,7 +204,7 @@ _Also, Check out our blog on_ _Call center knowledge base_
 
 ### 3. Sales Tools
 
-![Sales-tools](Inventář/sharded-Intel/knowlage/Tacit%20knowlage%201.md/Exported%20image%2020231213001303-5.png)
+![Sales-tools](Inventář/Knowlage/Koncepty/knowlage/Tacit%20knowlage%201.md/Exported%20image%2020231213001303-5.png)
 
 [Deal trackers](https://www.hubspot.com/products/sales/deal-tracking) — These sales tracking systems help sales reps track their leads and make notes for discoveries.
 
@@ -212,7 +212,7 @@ VoIP tools — These tools record sales calls and pitches. Sales teams can use t
 
 ### 4. Management Tools
 
-![Management-tools](Inventář/sharded-Intel/knowlage/Tacit%20knowlage%201.md/Exported%20image%2020231213001303-6.png)
+![Management-tools](Inventář/Knowlage/Koncepty/knowlage/Tacit%20knowlage%201.md/Exported%20image%2020231213001303-6.png)
 
 - [Knowledge base site](https://document360.com/knowledgebase-site/) — Use a knowledge base site to compile information from all your employees in a giant internal wiki. It serves as a single point of truth employees can use in any situation.
 - **Timelines and Gantt charts** — Use timelines and Gantt charts to align goals across different cross-functional teams.
@@ -228,4 +228,4 @@ An intuitive knowledge base software to easily add your content and integrate it
 
 [Get Started](https://document360.com/signup/?utm_source=blog&utm_medium=cta-button&utm_campaign=Tacitknowledge)
 
-![Document360](Inventář/sharded-Intel/knowlage/Tacit%20knowlage%201.md/Exported%20image%2020231213001303-7.png)
+![Document360](Inventář/Knowlage/Koncepty/knowlage/Tacit%20knowlage%201.md/Exported%20image%2020231213001303-7.png)
