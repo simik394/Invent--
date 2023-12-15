@@ -1,4 +1,5 @@
-
+# Požadavky
+## Úvod
 ### [Go to annotation](zotero://open-pdf/library/items/5QHDSEV6?page=8&annotation=GXGIULYJ) “Úvod” ([Gála](zotero://select/library/items/4MXCCWJN))
 
 - [ ] Zvolené téma rozvádí, stručně ho zasazuje do souvislostí (může zde být i popis motivace k sepsání práce) a odpovídá na otázku, proč bylo téma zvoleno. Zasazuje téma do souvislostí a zdůvodňuje jeho nutnost a aktuálnost řešení.  
