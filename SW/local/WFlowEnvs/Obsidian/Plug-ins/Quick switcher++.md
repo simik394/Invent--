@@ -1,10 +1,10 @@
 ## modes:
 - wspaces - \+ 
 - commands - \>
-- editor - edt 
-- headings - #
+- editor - edt (všechny otevřené záložky)
+- headings - # (obsah souborů)
 - bookmarks - '
-- symbols for active editor - $ 
+- symbols for active editor - $ (nadpisy a další nastavené) 
 - related items for active editor - ^ 
 - symbols for selected text - @
 - related items for selected text - ~
