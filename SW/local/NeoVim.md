@@ -1,5 +1,5 @@
 # Commands
-![[delete-examples]]
+![[delete-examples.commands.nvim]]
 
 # Tutorial
 [vim tutorial - Hledat](https://www.bing.com/search?pglt=675&q=vim+tutorial&cvid=87484be5d582449c897edb000f7e4c7e&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxBFGDwyBggIEEUYPNIBCDcxODBqMGoxqAIAsAIA&FORM=ANNTA1&PC=EDBBAN)
@@ -10,8 +10,8 @@
 ## UI
 [[LazyVim]]
 [[AstroNvim]]
-[[NvChad]]
-[[LunarVim]]
-[[nix-config]]
-[[Neelfrost_nvim-config]]
-[[utfeight_vimacs]]
+[[NvChad.distributions.nvim]]
+[[LunarVim.distributions.nvim]]
+[[nix-config.distributions.nvim]]
+[[Neelfrost_nvim-config.distributions.nvim]]
+[[utfeight_vimacs.distributions.nvim]]
