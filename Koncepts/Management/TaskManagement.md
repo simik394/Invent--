@@ -2,6 +2,12 @@
 aliases:
   - TM
 ---
+
+
+
+
+
+
 > [!green]  [Task Management Best Practices](zotero://open-pdf/library/items/UC6U85H2?page=3&annotation=A27UPXZ8) Page 3
 > 
 > ---
