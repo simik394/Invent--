@@ -1,3 +1,6 @@
+## Quickstarts
+down:: [[AppsScript.ChatApp.Quickstart]]
+down:: [[gDocs.Editor.Addon.Quickstart]]
 ## Samples
 ### Automation
 ### File mgmt
