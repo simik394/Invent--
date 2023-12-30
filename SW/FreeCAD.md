@@ -1,0 +1,1 @@
+https://wiki.freecad.org/Importing_From_Sketchup
