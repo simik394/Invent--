@@ -1,4 +1,7 @@
+---
+BC-link-note: down
+---
 # clasp
-down:: [[clasp.Codelabs]]
+[[clasp.Codelabs]]
 # AppScripts Fundamentals
-down:: [[WorkingWithData.AppScriptsFundamentals.Codelabs]]
+[[WorkingWithData.AppScriptsFundamentals.Codelabs]]
