@@ -1,4 +1,4 @@
-# htmx.org
+# htmx.org.home
 ## introduction
 
 htmx gives you access to [AJAX](https://htmx.org/docs/#ajax), [CSS Transitions](https://htmx.org/docs/#css_transitions), [WebSockets](https://htmx.org/docs/#websockets) and [Server Sent Events](https://htmx.org/docs/#sse) directly in HTML, using [attributes](https://htmx.org/reference/#attributes), so you can build [modern user interfaces](https://htmx.org/examples/) with the [simplicity](https://en.wikipedia.org/wiki/HATEOAS) and [power](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) of hypertext
@@ -39,6 +39,13 @@ We are happy to announce the release of [Hypermedia Systems](https://hypermedia
 [![hypermedia systems](https://htmx.org/img/hypermedia-systems.png)](https://www.amazon.com/dp/B0C9S88QV6/ref=sr_1_1?crid=1P0I3GXQK32TN)
 
 
+
+# docs
+[</> htmx ~ Documentation](https://htmx.org/docs/#ajax)
+
+# examples
+[</> htmx ~ Examples](https://htmx.org/examples/)
+[</> htmx ~ A Real World React -> htmx Port](https://htmx.org/essays/a-real-world-react-to-htmx-port/)
 # playgrounds
 [HTMX Playground (playcode.io)](https://playcode.io/1716471)
 [HTMX Playground (htmx-playground.vercel.app)](https://htmx-playground.vercel.app/)
@@ -48,3 +55,7 @@ down:: [[HTMXvsReact]]
 
 # combos
 down:: [[HTMX-hyperscript]]
+down:: [[HTMX-React]]
+
+# other
+podcast - [HTMX, Hyperscript, and More! | HTML All The Things](https://www.htmlallthethings.com/blog-posts/htmx-hyperscript-and-more)
