@@ -4,13 +4,17 @@
 # <u>Quickstarts</u>
 down:: [[AppsScript.ChatApp.Quickstart]]
 down:: [[gDocs.Editor.Addon.Quickstart]]
+>custom function
+automation
 
 # <u>Reference</u>
 down:: [[AppsScript.Reference]]
 [Reference overview  |  Apps Script  |  Google for Developers](https://developers.google.com/apps-script/reference)
 
-# <u>Guides</u>
+# [<u>Guides</u> overview](https://developers.google.com/apps-script/overview)
 
+down:: [[Custom Menus in Google Workspace]]
+down:: [[Dialogs and Sidebars in Google Workspace Documents]]
 ## -Screenshots
 [Google Apps Script overview  |  Google for Developers](https://developers.google.com/apps-script/overview)
 ![[Pasted image 20231231133629.png]]
