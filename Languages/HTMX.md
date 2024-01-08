@@ -47,6 +47,7 @@ We are happy to announce the release of [Hypermedia Systems](https://hypermedia
 [</> htmx ~ Examples](https://htmx.org/examples/)
 [</> htmx ~ A Real World React -> htmx Port](https://htmx.org/essays/a-real-world-react-to-htmx-port/)
 # playgrounds
+[HTML Online Viewer](https://html.onlineviewer.net/)
 [HTMX Playground (playcode.io)](https://playcode.io/1716471)
 [HTMX Playground (htmx-playground.vercel.app)](https://htmx-playground.vercel.app/)
 

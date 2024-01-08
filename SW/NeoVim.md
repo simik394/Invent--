@@ -5,6 +5,10 @@
 | redo | ctrl+r |
 |  |  |
 
+# Fundamentals
+[Vim Fundamentals (theprimeagen.github.io)](https://theprimeagen.github.io/vim-fundamentals/)
+
+
 ![[delete-examples.commands.nvim]]
 
 # Tutorial
