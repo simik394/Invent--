@@ -1,5 +1,5 @@
 ---
-
+doc: https://developers.google.com/apps-script
 ---
 # <u>Quickstarts</u>
 down:: [[AppsScript.ChatApp.Quickstart]]
