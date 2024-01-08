@@ -21,3 +21,5 @@
 [[homepage.nix-config.distributions.nvim]]
 [[homepage.Neelfrost_nvim-config.distributions.nvim]]
 [[homepage.utfeight_vimacs.distributions.nvim]]
+
+[[Nixvim.distributions.nvim |Nixvim]]
