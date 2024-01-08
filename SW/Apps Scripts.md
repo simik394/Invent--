@@ -1,17 +1,13 @@
 ---
 doc: https://developers.google.com/apps-script
 ---
-# <u>Quickstarts</u>
-down:: [[AppsScript.ChatApp.Quickstart]]
-down:: [[gDocs.Editor.Addon.Quickstart]]
->custom function
-automation
-
-# <u>Reference</u>
+# <u>1. Reference</u>
 down:: [[AppsScript.Reference]]
 [Reference overview  |  Apps Script  |  Google for Developers](https://developers.google.com/apps-script/reference)
 
-# [<u>Guides</u> overview](https://developers.google.com/apps-script/overview)
+# [<u>2. Guides</u> overview](https://developers.google.com/apps-script/overview)
+
+[External APIs  |  Apps Script  |  Google for Developers](https://developers.google.com/apps-script/guides/services/external)
 
 down:: [[Custom Menus in Google Workspace]]
 down:: [[Dialogs and Sidebars in Google Workspace Documents]]
@@ -19,7 +15,7 @@ down:: [[Dialogs and Sidebars in Google Workspace Documents]]
 [Google Apps Script overview  |  Google for Developers](https://developers.google.com/apps-script/overview)
 ![[Pasted image 20231231133629.png]]
 
-# <u>Samples</u>
+# <u>3. Samples</u>
 
 ## -Screenshots
 [Apps Script samples overview  |  Google for Developers](https://developers.google.com/apps-script/samples)
@@ -27,6 +23,12 @@ down:: [[Dialogs and Sidebars in Google Workspace Documents]]
 ![[Pasted image 20231231134228.png]]
 ![[Pasted image 20231231134303.png]]
 
+
+## <u>Quickstarts</u>
+down:: [[AppsScript.ChatApp.Quickstart]]
+down:: [[gDocs.Editor.Addon.Quickstart]]
+>custom function
+automation
 
 ## Automation
 ## File mgmt
