@@ -1,16 +1,25 @@
 ---
 doc: https://developers.google.com/apps-script
 ---
+# Apps  Script
+## Types  of scripts
+### Standalone
+![[g.AppsScript.standalone]]
+
+### Bound to document
+![[gAppsScript.type.bound_to_container]]
 # <u>1. Reference</u>
 down:: [[AppsScript.Reference]]
 [Reference overview  |  Apps Script  |  Google for Developers](https://developers.google.com/apps-script/reference)
 
 # [<u>2. Guides</u> overview](https://developers.google.com/apps-script/overview)
 
-[External APIs  |  Apps Script  |  Google for Developers](https://developers.google.com/apps-script/guides/services/external)
 
-down:: [[Custom Menus in Google Workspace]]
-down:: [[Dialogs and Sidebars in Google Workspace Documents]]
+[External APIs  |  Apps Script  |  Google for Developers](https://developers.google.com/apps-script/guides/services/external)
+## Extend editors
+down:: [[gDev Extending the Editors with Google Workspace Add-ons]]
+  down:: [[Custom Menus in Google Workspace]]
+  down:: [[Dialogs and Sidebars in Google Workspace Documents]]
 ## -Screenshots
 [Google Apps Script overview  |  Google for Developers](https://developers.google.com/apps-script/overview)
 ![[Pasted image 20231231133629.png]]
