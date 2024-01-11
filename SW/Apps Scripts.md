@@ -17,9 +17,16 @@ down:: [[AppsScript.Reference]]
 
 [External APIs  |  Apps Script  |  Google for Developers](https://developers.google.com/apps-script/guides/services/external)
 ## Extend editors
+### core
 down:: [[gDev Extending the Editors with Google Workspace Add-ons]]
   down:: [[Custom Menus in Google Workspace]]
   down:: [[Dialogs and Sidebars in Google Workspace Documents]]
+  
+down:: [[g.Preview links with smart chips]]
+down:: [[g.Create third-party resources]]
+### gSheets
+down:: [[gDev # Extract data from smart chips in your Google Sheets]]
+
 ## -Screenshots
 [Google Apps Script overview  |  Google for Developers](https://developers.google.com/apps-script/overview)
 ![[Pasted image 20231231133629.png]]
