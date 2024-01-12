@@ -1,4 +1,8 @@
+---
+up: []
+---
 
+# pages
 [[myDM/Docs/obsi.dataview.doc/index|index]]
 [[myDM/Docs/obsi.dataview.doc/changelog|changelog]]
 
@@ -35,3 +39,8 @@ list
 from "myDM/Docs/obsi.dataview.doc/resources"
 
 ```
+
+
+
+# favorites
+[[myDM/Docs/obsi.dataview.doc/queries/data-commands|data-commands]]
