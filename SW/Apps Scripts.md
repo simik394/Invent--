@@ -3,11 +3,13 @@ doc: https://developers.google.com/apps-script
 ---
 # Apps  Script
 ## Types  of scripts
+
 ### Standalone
 ![[g.AppsScript.standalone]]
 
 ### Bound to document
 ![[gAppsScript.type.bound_to_container]]
+
 # <u>1. Reference</u>
 down:: [[AppsScript.Reference]]
 [Reference overview  |  Apps Script  |  Google for Developers](https://developers.google.com/apps-script/reference)
