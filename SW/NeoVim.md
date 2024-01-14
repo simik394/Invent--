@@ -1,12 +1,23 @@
-# Commands
-| action | shortcut |
-| ---- | ---- |
-| undo | u |
-| redo | ctrl+r |
-|  |  |
 
-# Fundamentals
-[Vim Fundamentals (theprimeagen.github.io)](https://theprimeagen.github.io/vim-fundamentals/)
+| command | effect |
+| ---- | ---- |
+| :Ex | open FS_current directory view in buffer |
+| :Sex! | splitscreen current-dir \| buffer |
+| :S | split window horizontally |
+| :S! | split window vertically |
+| vim . | open the FS_current directory |
+| u | undo |
+| ctrl+r | redo |
+| crtl+d | jump 1/2 of page down |
+| ctrl+u | jump 1/2 of page up |
+| { | 1 paragraph up |
+| } | 1 paragraph down |
+| :... | jump to line ... |
+| /... + n;shift+N | najdi ... + navigace tam a zpátky |
+| ?... | search upwards |
+| (kurzor na daném slově) + * | automatically switches to searching mode |
+| (kurzor před závorkami) + vi'závorka' | označí celý text mezi danými závorkami |
+| (kurzor před závorkami) + va'závorka' | označí celý text včetně daných závorek |
 
 
 ![[delete-examples.commands.nvim]]
@@ -26,4 +37,5 @@
 [[homepage.Neelfrost_nvim-config.distributions.nvim]]
 [[homepage.utfeight_vimacs.distributions.nvim]]
 
-[[Nixvim.distributions.nvim |Nixvim]]
+[[nixvim.distributions.nvim |nixvim]]
+fn gg{                                    }

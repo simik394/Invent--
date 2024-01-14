@@ -1,12 +1,19 @@
 
-https://docs.syncthing.net/users/versioning.html
-# Folder Types[](https://docs.syncthing.net/v1.27.2/users/foldertypes.html#folder-types "Permalink to this heading")
+# desktop GUI
+[win22h2-simik | Syncthing](https://localhost:8384/#)
 
-## Send & Receive Folder[](https://docs.syncthing.net/v1.27.2/users/foldertypes.html#send-receive-folder "Permalink to this heading")
+
+
+
+# Docs
+https://docs.syncthing.net/users/versioning.html
+## Folder Types[](https://docs.syncthing.net/v1.27.2/users/foldertypes.html#folder-types "Permalink to this heading")
+
+### Send & Receive Folder[](https://docs.syncthing.net/v1.27.2/users/foldertypes.html#send-receive-folder "Permalink to this heading")
 
 This is the standard folder type. Under this setting, a folder will both send changes to and receive changes from remote devices.
 
-## Send Only Folder[](https://docs.syncthing.net/v1.27.2/users/foldertypes.html#send-only-folder "Permalink to this heading")
+### Send Only Folder[](https://docs.syncthing.net/v1.27.2/users/foldertypes.html#send-only-folder "Permalink to this heading")
 
 A folder can be set in “send only mode” among the folder settings.
 
@@ -22,7 +29,7 @@ When a send only folder becomes out of sync, a red “Override Changes” button
 
 Clicking this button will enforce this host’s current state on the rest of the cluster. Any changes made to files will be overwritten by the version on this host, any files that don’t exist on this host will be deleted, and so on.
 
-## Receive Only Folder[](https://docs.syncthing.net/v1.27.2/users/foldertypes.html#receive-only-folder "Permalink to this heading")
+### Receive Only Folder[](https://docs.syncthing.net/v1.27.2/users/foldertypes.html#receive-only-folder "Permalink to this heading")
 
 New in version 0.14.50.
 
@@ -33,3 +40,6 @@ Much like a send-receive folder, any local modifications are preserved and do no
 When local changes have been detected Syncthing will show a red “Revert Local Changes” button on the folder. Activating this will cause the local modifications to be undone - added files will be deleted, modified or deleted files will be re-synced from the cluster.
 
 In normal operation, a locally modified file that is subsequently modified by the cluster will cause a sync conflict. The conflict will be resolved with the cluster version as the winner. Being a receive-only folder, the sync conflict copy will not be sent to the cluster - and will be deleted if “Revert Local Changes” is used.
+
+# Related
+[syncthing-gtk/README.md at master · kozec/syncthing-gtk (github.com)](https://github.com/kozec/syncthing-gtk/blob/master/README.md)

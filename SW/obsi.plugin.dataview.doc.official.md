@@ -1,8 +1,6 @@
----
-up: []
----
 
 # pages
+
 [[myDM/Docs/obsi.dataview.doc/index|index]]
 [[myDM/Docs/obsi.dataview.doc/changelog|changelog]]
 
