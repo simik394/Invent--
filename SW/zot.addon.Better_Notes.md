@@ -1,3 +1,6 @@
+---
+url: https://github.com/windingwind/zotero-better-notes
+---
 
 github: [windingwind/zotero-better-notes: Everything about note management. All in Zotero. (github.com)](https://github.com/windingwind/zotero-better-notes#note-template)
 
@@ -240,3 +243,13 @@ If you want to leave your name here, please email me or leave a message with the
 </a>
 
 Outline
+
+# about note template
+![[zot.better_notes.docs]]
+
+
+
+
+# comunity templates
+[windingwind/zotero-better-notes Note Templates · Discussions · GitHub](https://github.com/windingwind/zotero-better-notes/discussions/categories/note-templates?discussions_q=is%3Aopen+category%3A%22Note+Templates%22+sort%3Atop)
+

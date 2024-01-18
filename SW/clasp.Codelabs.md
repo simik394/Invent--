@@ -1,5 +1,5 @@
 ---
-up: "[[Apps Scripts]]"
+up: "[[Apps Script]]"
 ---
 
 ## Login

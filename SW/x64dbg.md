@@ -1,2 +1,5 @@
-#sw/open-source
-debugger for Windows
+---
+open-source: true
+why?: 
+what?: debugger for Windows
+---

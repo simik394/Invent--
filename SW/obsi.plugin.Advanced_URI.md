@@ -1,4 +1,11 @@
-GitHub: [https://github.com/Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri)
+---
+purpose:
+  - scripting
+tags:
+  - obsi/plugin
+url: https://github.com/Vinzent03/obsidian-advanced-uri
+---
+
 Docs: [Obsidian Advanced URI | Obsidian Advanced URI (vinzent03.github.io)](https://vinzent03.github.io/obsidian-advanced-uri/)
 
 ## Overview

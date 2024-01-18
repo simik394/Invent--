@@ -1,6 +1,6 @@
 ---
 tags:
-  - framework/web
+  - sw/framework/web
 ---
 
 # features

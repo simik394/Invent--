@@ -1,6 +1,17 @@
+---
+tags:
+  - ⭐
+---
 
 # js API
 [obsidian-api/obsidian.d.ts at master · obsidianmd/obsidian-api (github.com)](https://github.com/obsidianmd/obsidian-api/blob/master/obsidian.d.ts)
+
+# vim
+```dataview
+table
+from #guide/obsi 
+
+```
 
 # plugins
 
@@ -8,9 +19,40 @@
 > ```query
 path:(Inv/SW) file:(obsi)
 
+> [!NOTE]- purposeless
+> ```dataview
+> table
+> from #obsi/plugin
+> where !purpose
+> ```
 
-## Apply patterns
+> [!NOTE]- purposeful
+> ```dataview
+> table purpose
+> from #obsi/plugin or [[#]]
+> where purpose
+> ```
+
+
+[[TfT Hacker#Obsidian Plugins by TfT Hacker]]
+### Apply patterns
 ![[obsi.plugin.Apply_Patterns]]
+
+### obsidian-types
+?????
+## View
+
+> [!NOTE]- view enhancing
+> ```query
+> file:(obsi.)  (block:[purpose:view])
+> ```
+
+## Scripting
+
+> [!NOTE]- enable code running 
+> ```query
+> file:(obsi.)  (block:[purpose:scripting])
+> ```
 
 ## Automation
 - [HananoshikaYomaru/Obsidian-Frontmatter-Generator: A plugin for Obsidian that generates frontmatter for notes (github.com)](https://github.com/HananoshikaYomaru/Obsidian-Frontmatter-Generator)

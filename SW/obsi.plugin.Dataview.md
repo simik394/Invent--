@@ -1,3 +1,8 @@
+---
+purpose:
+  - view
+  - search
+---
 
 # Documentation
 ![[obsi.plugin.dataview.doc.official]]
@@ -16,3 +21,9 @@
 [Trying to retrieve Callout with DataView - Help - Obsidian Forum](https://forum.obsidian.md/t/trying-to-retrieve-callout-with-dataview/40312/15)
 
 [Extract the contents of callout boxes from daily notes](https://share.note.sx/1f2nsian)
+
+# Tests
+```dataview
+list
+from #test/dataview 
+```

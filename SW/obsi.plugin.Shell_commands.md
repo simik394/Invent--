@@ -1,6 +1,8 @@
 ---
 tags:
-  - installed
+  - obsi/plugin
+purpose:
+  - scripting
 ---
 GitHub: [https://github.com/Taitava/obsidian-shellcommands](https://github.com/Taitava/obsidian-shellcommands)
 Docs: [Index - Shell commands documentation - Obsidian Publish](https://publish.obsidian.md/shellcommands/Index)

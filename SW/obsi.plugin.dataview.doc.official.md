@@ -1,8 +1,8 @@
 
 # pages
 
-[[myDM/Docs/obsi.dataview.doc/index|index]]
-[[myDM/Docs/obsi.dataview.doc/changelog|changelog]]
+[[index|index]]
+[[changelog|changelog]]
 
 Annotation
 ```dataview
@@ -41,4 +41,4 @@ from "myDM/Docs/obsi.dataview.doc/resources"
 
 
 # favorites
-[[myDM/Docs/obsi.dataview.doc/queries/data-commands|data-commands]]
+[[data-commands|data-commands]]

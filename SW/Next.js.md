@@ -1,5 +1,8 @@
+---
+tags:
+  - sw/framework/web
+---
 
-#framework/web
 # Powered by
 - [[React]]
 - 

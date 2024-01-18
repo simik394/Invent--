@@ -5,6 +5,9 @@
 
 
 
+
+
+
 # Docs
 https://docs.syncthing.net/users/versioning.html
 ## Folder Types[](https://docs.syncthing.net/v1.27.2/users/foldertypes.html#folder-types "Permalink to this heading")

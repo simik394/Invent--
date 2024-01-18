@@ -1,4 +1,9 @@
-#framework/web #interesting/web-dev 
+---
+tags:
+  - sw/framework/web
+  - ⭐/interesting
+---
+
 
 # home
 [Remix - Build Better Websites](https://remix.run/)
