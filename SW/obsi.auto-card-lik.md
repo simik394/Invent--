@@ -2,7 +2,7 @@
 page-title: "nekoshita/obsidian-auto-card-link"
 url: https://github.com/nekoshita/obsidian-auto-card-link
 date: "2024-01-17 20:47:20"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: visual_expressability
 ---
 

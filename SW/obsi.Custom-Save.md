@@ -2,7 +2,7 @@
 page-title: "HananoshikaYomaru/obsidian-custom-save: add custom save action to your save command"
 url: https://github.com/HananoshikaYomaru/obsidian-custom-save
 date: "2024-01-18 08:27:57"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

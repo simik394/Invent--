@@ -2,7 +2,7 @@
 page-title: "deathau/cm-typewriter-scroll-obsidian: Typewriter Scroll Obsidian Plugin"
 url: https://github.com/deathau/cm-typewriter-scroll-obsidian
 date: "2024-01-18 00:30:04"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

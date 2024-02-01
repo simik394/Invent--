@@ -3,7 +3,7 @@ page-title: "konodyuk/obsidian-typing: Programmatic customizations for groups of
 url: https://github.com/konodyuk/obsidian-typing
 date: 2024-01-18 08:44:05
 tags:
-  - sw/plugin
+  - A/sw/plugin
   - ⭐/interesting
 purpose: 
 extends:

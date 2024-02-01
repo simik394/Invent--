@@ -2,7 +2,7 @@
 page-title: "ennioitaliano/obsidian-auto-glossary: Obsidian plugin that allows user to create a glossary of notes or a MOC from a selected folder."
 url: https://github.com/ennioitaliano/obsidian-auto-glossary
 date: "2024-01-18 00:09:52"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

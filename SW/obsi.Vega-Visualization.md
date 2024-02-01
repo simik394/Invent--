@@ -2,7 +2,7 @@
 page-title: "Justin-J-K/obsidian-vega: Create Vega and Vega-Lite visualizations in https://obsidian.md/."
 url: https://github.com/Justin-J-K/obsidian-vega
 date: "2024-01-18 08:16:40"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

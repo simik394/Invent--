@@ -2,7 +2,7 @@
 page-title: "ivan-lednev/obsidian-persistent-links: More robust internal links for Obsidian!"
 url: https://github.com/ivan-lednev/obsidian-persistent-links
 date: "2024-01-18 02:46:50"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: headings
 ---
 

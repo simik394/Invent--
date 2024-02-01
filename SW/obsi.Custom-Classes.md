@@ -2,7 +2,7 @@
 page-title: "LilaRest/obsidian-custom-classes: A minimal Obsidian plugin that allows you to add your own HTML classes to chosen Markdown elements directly from your notes."
 url: https://github.com/LilaRest/obsidian-custom-classes
 date: "2024-01-18 08:18:32"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

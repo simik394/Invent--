@@ -2,7 +2,7 @@
 page-title: "PKM-er/Obsidian-Surfing: An Obsidian plugin that lets you browse the web within Obsidian."
 url: https://github.com/PKM-er/Obsidian-Surfing
 date: "2024-01-18 00:51:43"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: 
     - web
     - integration

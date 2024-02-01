@@ -2,7 +2,7 @@
 page-title: "Pluto.jl — interactive Julia programming environment"
 url: https://plutojl.org/
 date: "2024-01-17 23:08:49"
-tags: sw/lang/julia/IDE
+tags: A/sw/lang/julia/IDE
 purpose:
 ---
 

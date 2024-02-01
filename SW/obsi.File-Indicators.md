@@ -2,7 +2,7 @@
 page-title: "JakobMick/obsidian-file-indicators: Add custom indicators to the file explorer."
 url: https://github.com/JakobMick/obsidian-file-indicators
 date: "2024-01-18 08:12:39"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

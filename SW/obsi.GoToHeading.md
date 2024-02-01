@@ -2,7 +2,7 @@
 page-title: "oin/obsidian-gotoheading: Quickly navigate between your document's headings in Obsidian"
 url: https://github.com/oin/obsidian-gotoheading
 date: "2024-01-18 02:48:09"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: headings
 ---
 

@@ -2,7 +2,7 @@
 page-title: "st3v3nmw/obsidian-spaced-repetition: Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian.md"
 url: https://github.com/st3v3nmw/obsidian-spaced-repetition
 date: "2024-01-18 00:17:05"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

@@ -2,7 +2,7 @@
 page-title: "sytone/obsidian-queryallthethings: Query all your data stored in Obsidian, this plugin allows SQL based queries against the data collections available in Obsidian and Dataview. Output can then be rendered by Handlebars"
 url: https://github.com/sytone/obsidian-queryallthethings
 date: "2024-01-18 08:30:05"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

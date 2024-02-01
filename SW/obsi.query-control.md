@@ -7,7 +7,7 @@ purpose:
 extends:
   - "[[Obsidian]]"
 tags:
-  - sw/plugin
+  - A/sw/plugin
 ---
 
 > This plugin adds additional functionality to Obsidian's [search/query](https://help.obsidian.md/Plugins/Search) feature. The current version will add a control bar to each embedded query with various actions such as: collapse all, show context, sort, hide title, hide results, render markdown, and copy results.

@@ -2,7 +2,7 @@
 page-title: "almariah/embed-code-file"
 url: https://github.com/almariah/embed-code-file
 date: "2024-01-18 00:15:20"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: render-view-external
 ---
 

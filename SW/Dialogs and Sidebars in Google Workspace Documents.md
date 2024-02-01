@@ -1,7 +1,7 @@
 ---
 src: https://developers.google.com/apps-script/guides/dialogs
-tags: []
--> Project: "[[BP.Podklady]]"
+tags: 
+-> Project: "[[BP/README]]"
 ---
 Scripts that are [bound](https://developers.google.com/apps-script/scripts_containers) to Google Docs, Sheets, or Forms can display several types of user-interface elements — pre-built alerts and prompts, plus dialogs and sidebars that contain custom [HTML service](https://developers.google.com/apps-script/guides/html) pages. Typically, these elements are opened from [menu items](https://developers.google.com/apps-script/guides/menus). (Note that in Google Forms, user-interface elements are visible only to an editor who opens the form to modify it, not to a user who opens the form to respond.)
 

@@ -2,7 +2,7 @@
 page-title: "SebastianMC/obsidian-custom-sort: Take full control over the order and sorting of folders and notes in File Explorer in Obsidian"
 url: https://github.com/SebastianMC/obsidian-custom-sort
 date: "2024-01-18 08:21:50"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

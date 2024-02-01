@@ -2,7 +2,7 @@
 page-title: "ssjy1919/Obsidian-minitabs: Obsidian tabs"
 url: https://github.com/ssjy1919/Obsidian-minitabs
 date: "2024-01-18 08:11:24"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

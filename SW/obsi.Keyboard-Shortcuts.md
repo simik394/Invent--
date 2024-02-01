@@ -2,7 +2,7 @@
 page-title: "ieviev/obsidian-keyboard-shortcuts: Quick snippets and navigation for Obsidian"
 url: https://github.com/ieviev/obsidian-keyboard-shortcuts
 date: "2024-01-18 02:46:14"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: headings
 ---
 

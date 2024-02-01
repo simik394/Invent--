@@ -2,7 +2,7 @@
 page-title: "MugishoMp/obsidian-editor-width-slider: With this plugin you can set the line width of the editor in obsidian."
 url: https://github.com/MugishoMp/obsidian-editor-width-slider
 date: "2024-01-18 08:14:39"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

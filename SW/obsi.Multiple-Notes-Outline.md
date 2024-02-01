@@ -2,7 +2,7 @@
 page-title: "iiz00/obsidian-multiple-notes-outline"
 url: https://github.com/iiz00/obsidian-multiple-notes-outline
 date: "2024-01-18 02:48:39"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: headings
 ---
 

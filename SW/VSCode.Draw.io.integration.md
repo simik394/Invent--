@@ -3,7 +3,7 @@ page-title: Draw.io Integration - Visual Studio Marketplace
 url: https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
 date: 2024-01-18 02:32:00
 tags:
-  - sw/extension
+  - A/sw/extension
 purpose:
   - integration
 integrates: "[[draw.io]]"

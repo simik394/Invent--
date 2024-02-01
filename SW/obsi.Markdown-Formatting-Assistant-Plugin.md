@@ -2,7 +2,7 @@
 page-title: "Reocin/obsidian-markdown-formatting-assistant-plugin: This Plugin provides a simple WYSIWYG Editor for Markdown and in addition a command line interface. The command line interface facilitate a faster workflow."
 url: https://github.com/Reocin/obsidian-markdown-formatting-assistant-plugin
 date: "2024-01-18 00:29:04"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

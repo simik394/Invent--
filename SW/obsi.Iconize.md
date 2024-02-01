@@ -2,7 +2,7 @@
 page-title: "FlorianWoelki/obsidian-iconize: Simply add icons to anything you want in Obsidian."
 url: https://github.com/FlorianWoelki/obsidian-iconize
 date: "2024-01-17 20:54:34"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

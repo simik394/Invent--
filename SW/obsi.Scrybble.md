@@ -2,7 +2,7 @@
 page-title: "Azeirah/scrybble: Obsidian sync plugin for scrybble"
 url: https://github.com/Azeirah/scrybble
 date: "2024-01-18 00:46:23"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: integration
 ---
 

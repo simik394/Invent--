@@ -2,7 +2,7 @@
 page-title: "0skater0/obsidian-custom-note-width: A plugin for Obsidian that enables you to easily adjust the editor's line width on a note-by-note basis."
 url: https://github.com/0skater0/obsidian-custom-note-width
 date: "2024-01-18 08:14:10"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

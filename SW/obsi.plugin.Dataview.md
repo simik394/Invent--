@@ -4,11 +4,6 @@ purpose:
   - search
 ---
 
-# Documentation
-![[obsi.plugin.dataview.doc.official]]
-
-
-
 # Community sources
 ## .troubleshooting
 [Troubleshooting a Dataview field - Help - Obsidian Forum](https://forum.obsidian.md/t/troubleshooting-a-dataview-field/41162/3)
@@ -24,6 +19,20 @@ purpose:
 
 # Tests
 ```dataview
-list
-from #test/dataview 
+list tested
+from [[obsi.plugin.Dataview]]
+where tested
 ```
+
+# Samples
+## List text list itemů s parametrem key
+```dataviewjs
+dv.list(dv.pages('"myDM/Experiments"')
+	.file.lists
+	.where(t => t.text.includes("key::"))
+	.text)
+```
+# Documentation
+[[obsi.plugin.dataview.doc.official]]
+
+

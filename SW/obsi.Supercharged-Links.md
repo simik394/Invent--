@@ -2,7 +2,7 @@
 page-title: "mdelobelle/obsidian_supercharged_links: obsidian plugin to add attributes and context menu options to internal links"
 url: https://github.com/mdelobelle/obsidian_supercharged_links
 date: "2024-01-18 00:26:38"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: 
 ---
 

@@ -2,7 +2,7 @@
 page-title: "onlyafly/number-headings-obsidian: Automatically number headings in a document in Obsidian"
 url: https://github.com/onlyafly/number-headings-obsidian
 date: "2024-01-18 02:45:29"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: headings
 ---
 

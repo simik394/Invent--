@@ -2,7 +2,7 @@
 page-title: "PKM-er/obsidian-floating-toc-plugin"
 url: https://github.com/PKM-er/obsidian-floating-toc-plugin
 date: "2024-01-18 00:53:23"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

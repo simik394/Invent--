@@ -2,7 +2,7 @@
 page-title: "symunona/obsidian-bulk-exporter: Bulk export Markdown filtered, renamed and sorted by front matter metadata into a new structure."
 url: https://github.com/symunona/obsidian-bulk-exporter
 date: "2024-01-18 08:15:33"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

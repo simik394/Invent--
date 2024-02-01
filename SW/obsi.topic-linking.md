@@ -2,7 +2,7 @@
 page-title: "marcjulianschwarz/obsidian-file-link: A plugin for the note taking app Obsidian to add better external file links to your notes."
 url: https://github.com/marcjulianschwarz/obsidian-file-link
 date: "2024-01-17 20:57:16"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

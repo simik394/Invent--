@@ -2,7 +2,7 @@
 page-title: "scambier/obsidian-omnisearch: A search engine that \"just works\" for Obsidian. Supports OCR and PDF indexing."
 url: https://github.com/scambier/obsidian-omnisearch
 date: "2024-01-18 00:58:05"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

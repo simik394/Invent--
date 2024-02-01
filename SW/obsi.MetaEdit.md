@@ -2,7 +2,7 @@
 page-title: "chhoumann/MetaEdit: MetaEdit for Obsidian"
 url: https://github.com/chhoumann/MetaEdit
 date: "2024-01-17 20:41:17"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

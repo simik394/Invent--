@@ -2,7 +2,7 @@
 page-title: "kxxt/obsidian-advanced-paste: Advanced pasting functionality for obsidian"
 url: https://github.com/kxxt/obsidian-advanced-paste
 date: "2024-01-18 08:20:58"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

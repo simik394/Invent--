@@ -2,7 +2,7 @@
 purpose:
   - scripting
 tags:
-  - obsi/plugin
+  - A/sw/obsi/plugin
 url: https://github.com/Vinzent03/obsidian-advanced-uri
 ---
 

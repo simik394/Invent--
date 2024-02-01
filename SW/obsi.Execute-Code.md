@@ -2,7 +2,7 @@
 page-title: "twibiral/obsidian-execute-code: Obsidian Plugin to execute code in a note."
 url: https://github.com/twibiral/obsidian-execute-code
 date: "2024-01-18 00:57:01"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

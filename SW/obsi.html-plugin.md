@@ -2,7 +2,7 @@
 page-title: "nuthrash/obsidian-html-plugin: This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions."
 url: https://github.com/nuthrash/obsidian-html-plugin
 date: "2024-01-18 00:00:24"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

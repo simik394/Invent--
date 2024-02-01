@@ -2,7 +2,7 @@
 page-title: "liamcain/obsidian-periodic-notes: Create/manage your daily, weekly, and monthly notes in Obsidian"
 url: https://github.com/liamcain/obsidian-periodic-notes
 date: "2024-01-18 00:15:36"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

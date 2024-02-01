@@ -2,7 +2,7 @@
 page-title: "k4a-l/obsidian-heading-shifter: Easily Shift and Change markdown headings."
 url: https://github.com/k4a-l/obsidian-heading-shifter
 date: "2024-01-18 02:50:17"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: headings
 ---
 

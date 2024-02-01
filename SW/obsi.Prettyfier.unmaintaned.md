@@ -2,7 +2,7 @@
 page-title: "cristianvasquez/obsidian-prettify: A markdown prettifier for obsidian"
 url: https://github.com/cristianvasquez/obsidian-prettify
 date: "2024-01-18 00:27:07"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

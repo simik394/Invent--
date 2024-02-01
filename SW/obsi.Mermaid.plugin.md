@@ -2,7 +2,7 @@
 page-title: "dartungar/obsidian-mermaid: Tools for improved Mermaid.js experience in Obsidian.md"
 url: https://github.com/dartungar/obsidian-mermaid
 date: "2024-01-18 00:57:25"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

@@ -2,7 +2,7 @@
 page-title: "kelszo/obsidian-file-explorer-plus: A plugin for https://obsidian.md, which enables the ability to hide and pin specific files and folders in the file explorer by applying custom filters."
 url: https://github.com/kelszo/obsidian-file-explorer-plus
 date: "2024-01-18 08:19:52"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

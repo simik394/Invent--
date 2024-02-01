@@ -2,7 +2,7 @@
 page-title: "shap-po/obsidian-party: An implementation of party.js for Obsidian"
 url: https://github.com/shap-po/obsidian-party
 date: "2024-01-18 08:19:36"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

@@ -2,7 +2,7 @@
 page-title: "reuseman/flashcards-obsidian: 🎴 An Anki plugin for Obsidian.md"
 url: https://github.com/reuseman/flashcards-obsidian
 date: "2024-01-18 00:48:58"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

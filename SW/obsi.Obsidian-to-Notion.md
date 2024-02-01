@@ -2,7 +2,7 @@
 page-title: "EasyChris/obsidian-to-notion: Share obsidian markdown file to notion and generate notion share link 同步obsdian文件到notion，并生成notion分享链接，可以方便的分享obsidian的文件。"
 url: https://github.com/EasyChris/obsidian-to-notion
 date: "2024-01-17 20:59:44"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: integration
 ---
 

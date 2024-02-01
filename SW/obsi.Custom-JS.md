@@ -2,7 +2,7 @@
 page-title: "saml-dev/obsidian-custom-js: An Obsidian plugin to allow users to reuse code blocks across all devices and OSes"
 url: https://github.com/saml-dev/obsidian-custom-js
 date: "2024-01-18 08:24:40"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose: scripting
 extends: "[[Obsidian]]"
 ---

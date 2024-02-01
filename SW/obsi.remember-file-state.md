@@ -2,7 +2,7 @@
 page-title: "ludovicchabant/obsidian-remember-file-state: A plugin for Obsidian that remembers cursor position, selection, scrolling, and more for each file."
 url: https://github.com/ludovicchabant/obsidian-remember-file-state
 date: "2024-01-18 00:07:00"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

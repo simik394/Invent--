@@ -3,7 +3,7 @@ page-title: "meld-cp/obsidian-build: Write and execute (sandboxed) JavaScript to
 url: https://github.com/meld-cp/obsidian-build
 date: 2024-01-18 08:29:41
 tags:
-  - sw/plugin
+  - A/sw/plugin
   - ⭐/interesting
 purpose:
   - scripting

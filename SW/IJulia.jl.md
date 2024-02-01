@@ -3,7 +3,7 @@ page-title: "JuliaLang/IJulia.jl: Julia kernel for Jupyter"
 url: https://github.com/JuliaLang/IJulia.jl
 date: 2024-01-17 22:55:03
 tags:
-  - sw/lang/julia
+  - A/sw/lang/julia
 purpose:
   - kernel
 up:

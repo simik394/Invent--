@@ -2,7 +2,7 @@
 page-title: "nothingislost/obsidian-dynamic-highlights: An experimental Obsidian plugin that highlights all occurrences of the word under the cursor"
 url: https://github.com/nothingislost/obsidian-dynamic-highlights
 date: "2024-01-18 08:31:39"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

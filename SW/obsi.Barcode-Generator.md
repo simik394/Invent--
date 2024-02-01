@@ -2,7 +2,7 @@
 page-title: "noxonad/obsidian-barcode-generator: A barcode generator for obsidian."
 url: https://github.com/noxonad/obsidian-barcode-generator
 date: "2024-01-18 08:13:11"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

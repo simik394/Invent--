@@ -2,7 +2,7 @@
 page-title: "karstenpedersen/obsidian-advanced-random-note: Create commands from custom queries to open random notes"
 url: https://github.com/karstenpedersen/obsidian-advanced-random-note
 date: "2024-01-18 08:17:47"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

@@ -2,7 +2,7 @@
 page-title: "Pseudonium/Obsidian_to_Anki: Script to add flashcards from text/markdown files to Anki"
 url: https://github.com/Pseudonium/Obsidian_to_Anki
 date: "2024-01-18 00:28:46"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: integration
 ---
 

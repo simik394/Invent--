@@ -2,7 +2,7 @@
 page-title: "Vinzent03/obsidian-shortcuts-for-starred-files"
 url: https://github.com/Vinzent03/obsidian-shortcuts-for-starred-files
 date: "2024-01-18 00:08:07"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

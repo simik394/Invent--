@@ -3,7 +3,7 @@ page-title: "chrisgrieser/grappling-hook: Obsidian Plugin for blazingly fast fil
 url: https://github.com/chrisgrieser/grappling-hook
 date: "2024-01-18 00:12:31"
 tags: 
-    - obsi/plugin
+    - A/sw/obsi/plugin
     - ⭐
 purpose: speed
 ---

@@ -2,7 +2,7 @@
 page-title: "obsidianmd/obsidian-sample-plugin"
 url: https://github.com/obsidianmd/obsidian-sample-plugin
 date: "2024-01-18 02:08:59"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: template
 ---
 

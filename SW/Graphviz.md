@@ -3,8 +3,8 @@ page-title: Graphviz
 url: https://graphviz.gitlab.io/
 date: 2024-01-18 02:28:55
 tags:
-  - sw/library
-  - sw/app
+  - A/sw/library
+  - A/sw/app
 purpose:
   - graph_visualization
 ---

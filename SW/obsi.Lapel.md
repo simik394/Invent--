@@ -2,7 +2,7 @@
 page-title: "liamcain/obsidian-lapel: 🤵 Dress up your editor. Obsidian plugin to show the heading level in the gutter."
 url: https://github.com/liamcain/obsidian-lapel
 date: "2024-01-18 02:44:44"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: headings
 ---
 

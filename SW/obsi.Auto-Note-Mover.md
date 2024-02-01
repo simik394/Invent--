@@ -2,7 +2,7 @@
 page-title: "farux/obsidian-auto-note-mover: This is a plugin for Obsidian (https://obsidian.md)."
 url: https://github.com/farux/obsidian-auto-note-mover
 date: "2024-01-18 00:50:49"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: automation
 ---
 

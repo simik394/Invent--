@@ -3,7 +3,7 @@ page-title: "HananoshikaYomaru/obsidian-run: Generate markdown from dataview que
 url: https://github.com/HananoshikaYomaru/obsidian-run
 date: 2024-01-18 08:26:13
 tags:
-  - sw/plugin
+  - A/sw/plugin
   - ⭐/interesting
 purpose:
   - gen-md

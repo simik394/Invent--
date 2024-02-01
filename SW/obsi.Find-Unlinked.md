@@ -2,7 +2,7 @@
 page-title: "Vinzent03/find-unlinked-files: Find files, which are nowhere linked, so they are maybe lost in your vault."
 url: https://github.com/Vinzent03/find-unlinked-files
 date: "2024-01-18 00:19:02"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: repair
 ---
 

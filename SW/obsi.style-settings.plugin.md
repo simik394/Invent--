@@ -2,7 +2,7 @@
 page-title: "mgmeyers/obsidian-style-settings: A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian"
 url: https://github.com/mgmeyers/obsidian-style-settings
 date: "2024-01-17 20:51:28"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

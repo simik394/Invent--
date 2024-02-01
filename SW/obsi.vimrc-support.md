@@ -3,7 +3,7 @@ page-title: "esm7/obsidian-vimrc-support: A plugin for the Obsidian.md note-taki
 url: https://github.com/esm7/obsidian-vimrc-support
 date: 2024-01-16 22:03:08
 tags:
-  - obsi/plugin
+  - A/sw/obsi/plugin
 qual.README: 75
 ---
 

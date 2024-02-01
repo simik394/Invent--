@@ -2,7 +2,7 @@
 page-title: "mugiwara85/CodeblockCustomizer: Codeblock Customizer plugin for Obsidian"
 url: https://github.com/mugiwara85/CodeblockCustomizer
 date: "2024-01-18 08:26:36"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

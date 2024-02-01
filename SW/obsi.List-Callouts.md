@@ -2,7 +2,7 @@
 page-title: "mgmeyers/obsidian-list-callouts: Create callouts in lists in Obsidian."
 url: https://github.com/mgmeyers/obsidian-list-callouts
 date: "2024-01-18 00:52:37"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

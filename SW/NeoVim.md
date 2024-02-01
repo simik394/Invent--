@@ -43,7 +43,7 @@ gj - by 1 visual line down
 * [neovim-configuration · GitHub Topics](https://github.com/topics/neovim-configuration)
 # Plugins
 ## Distributions
-[[homepage.LazyVim.distributions.nvim |LazyVim]]
+[[myDM/Websites/homepage.LazyVim.distributions.nvim|LazyVim]]
 [[homepage.AstroNvim.distributions.nvim]]
 [[homepage.NvChad.distributions.nvim]]
 [[homepage.LunarVim.distributions.nvim]]

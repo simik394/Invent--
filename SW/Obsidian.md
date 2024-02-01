@@ -9,7 +9,7 @@ tags:
 # vim
 ```dataview
 table
-from #guide/obsi 
+from #g
 
 ```
 
@@ -77,3 +77,4 @@ path:(Inv/SW) file:(obsi)
 * [Brain We Are CZ | Podcast on Spotify](https://open.spotify.com/show/3eWS853xF98xEe2nNAQ7au)
 * [Step-by-step Illustrations | Obsidian Plugins Docs (studiowebux.github.io)](https://studiowebux.github.io/obsidian-plugins-docs/docs/spotify-link/steps/)
 * [obsidian integration | Basic Information](https://developer.spotify.com/dashboard/00ff3724fc244ff0b31cac9a6f1b6c64/settings)
+

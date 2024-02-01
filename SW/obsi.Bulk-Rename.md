@@ -2,7 +2,7 @@
 page-title: "OlegLustenko/obsidian-bulk-rename"
 url: https://github.com/OlegLustenko/obsidian-bulk-rename
 date: "2024-01-18 00:06:25"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: 
 ---
 

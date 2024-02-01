@@ -2,7 +2,7 @@
 page-title: "jglev/obsidian-redirect: An Obsidian plugin for adding aliases to any file"
 url: https://github.com/jglev/obsidian-redirect
 date: "2024-01-18 00:10:28"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

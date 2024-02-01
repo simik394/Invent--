@@ -2,7 +2,7 @@
 page-title: "MeepTech/obsidian-custom-file-extensions-plugin: An obsidian plugin allowing you to register and view different file extensions in a modular manner."
 url: https://github.com/MeepTech/obsidian-custom-file-extensions-plugin
 date: "2024-01-18 08:19:02"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

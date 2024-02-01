@@ -2,7 +2,7 @@
 page-title: "sissilab/obsidian-image-toolkit: An Obsidian plugin for viewing an image."
 url: https://github.com/sissilab/obsidian-image-toolkit
 date: "2024-01-18 00:19:40"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: images
 ---
 

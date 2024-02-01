@@ -1,6 +1,6 @@
 ---
 tags:
-  - obsi/plugin
+  - A/sw/obsi/plugin
 purpose:
   - scripting
 ---

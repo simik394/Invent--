@@ -2,7 +2,7 @@
 page-title: "lukasbach/obsidian-code-files: Plugin for ObsidianMD to show and edit code files along other notes."
 url: https://github.com/lukasbach/obsidian-code-files
 date: "2024-01-18 00:09:29"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: scripting
 ---
 

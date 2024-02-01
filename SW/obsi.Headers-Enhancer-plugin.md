@@ -2,7 +2,7 @@
 page-title: "HoBeedzc/obsidian-header-enhancer-plugin: Level up your headers, customize your notes. Header Enhancer makes your notes header better and more useful."
 url: https://github.com/HoBeedzc/obsidian-header-enhancer-plugin
 date: "2024-01-18 08:16:07"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

@@ -2,7 +2,7 @@
 page-title: "HEmile/obsidian-neo4j-graph-view"
 url: https://github.com/HEmile/obsidian-neo4j-graph-view
 date: "2024-01-18 08:31:20"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose: integration
 extends: "[[Obsidian]]"
 ---

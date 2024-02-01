@@ -2,7 +2,7 @@
 page-title: "SkepticMystic/graph-analysis: Analyse the structure of your Obsidian graph using various analysis techniques"
 url: https://github.com/SkepticMystic/graph-analysis
 date: "2024-01-18 00:51:58"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

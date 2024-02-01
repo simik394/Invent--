@@ -2,7 +2,7 @@
 page-title: "OkamiWong/obsidian-custom-state-for-task-list: A plugin for Obsidian to define your own states for task items."
 url: https://github.com/OkamiWong/obsidian-custom-state-for-task-list
 date: "2024-01-18 08:17:05"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

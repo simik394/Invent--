@@ -2,7 +2,7 @@
 page-title: "Signynt/insert-heading-link: Add a Link to a Heading."
 url: https://github.com/Signynt/insert-heading-link
 date: "2024-01-18 02:47:36"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: headings
 ---
 

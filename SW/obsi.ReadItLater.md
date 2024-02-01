@@ -2,7 +2,7 @@
 page-title: "DominikPieper/obsidian-ReadItLater"
 url: https://github.com/DominikPieper/obsidian-ReadItLater
 date: "2024-01-18 00:47:32"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: import
 ---
 

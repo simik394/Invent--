@@ -2,7 +2,7 @@
 page-title: "trganda/obsidian-attachment-management: Attachment Management of Obsidian"
 url: https://github.com/trganda/obsidian-attachment-management
 date: "2024-01-18 08:21:23"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

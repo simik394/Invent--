@@ -3,7 +3,7 @@ page-title: Metaprogramming · The Julia Language
 url: https://docs.julialang.org/en/v1/manual/metaprogramming/
 date: 2024-01-17 23:54:31
 tags:
-  - sw/lang/julia/manual
+  - A/sw/lang/julia/manual
 purpose:
 ---
 

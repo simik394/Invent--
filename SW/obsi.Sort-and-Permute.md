@@ -2,7 +2,7 @@
 page-title: "Vinzent03/obsidian-sort-and-permute-lines: Sort and Permute lines in whole file or selection."
 url: https://github.com/Vinzent03/obsidian-sort-and-permute-lines
 date: "2024-01-17 20:55:54"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

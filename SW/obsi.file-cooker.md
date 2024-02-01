@@ -2,7 +2,7 @@
 page-title: "ivaneye/obsidian-files-cooker: An obsidian plugin for moving search files to target folder"
 url: https://github.com/ivaneye/obsidian-files-cooker
 date: "2024-01-17 20:39:57"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 ---
 
 ## obsidian-file-cooker

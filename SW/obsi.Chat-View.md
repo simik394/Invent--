@@ -2,7 +2,7 @@
 page-title: "adifyr/obsidian-chat-view: An elegant chat view for Obsidian pages."
 url: https://github.com/adifyr/obsidian-chat-view
 date: "2024-01-18 00:05:25"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: render-md
 ---
 

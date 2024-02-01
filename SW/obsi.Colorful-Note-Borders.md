@@ -2,7 +2,7 @@
 page-title: "rusi/obsidian-colorful-note-borders"
 url: https://github.com/rusi/obsidian-colorful-note-borders
 date: "2024-01-18 08:20:26"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

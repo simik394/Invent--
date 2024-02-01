@@ -2,7 +2,7 @@
 page-title: "mokeyish/obsidian-code-emitter: An obsidian plugin that allows code blocks executed interactively in sandbox like jupyter notebooks. Supported language rust、kotlin、python、Javascript、TypeScript etc."
 url: https://github.com/mokeyish/obsidian-code-emitter
 date: "2024-01-18 00:58:31"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

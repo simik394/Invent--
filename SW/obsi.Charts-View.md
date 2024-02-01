@@ -2,7 +2,7 @@
 page-title: "caronchen/obsidian-chartsview-plugin: Data visualization solution in Obsidian, support plots and graphs."
 url: https://github.com/caronchen/obsidian-chartsview-plugin
 date: "2024-01-18 00:55:16"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
     - render-view-external
     - charts

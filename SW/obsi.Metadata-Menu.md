@@ -2,7 +2,7 @@
 page-title: "mdelobelle/metadatamenu: For data management enthusiasts : type and manage the metadata of your notes."
 url: https://github.com/mdelobelle/metadatamenu
 date: "2024-01-18 00:25:17"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

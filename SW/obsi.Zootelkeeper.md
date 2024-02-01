@@ -2,7 +2,7 @@
 page-title: "akosbalasko/zoottelkeeper-obsidian-plugin: Obsidian plugin of Zoottelkeeper: An automated folder-level index file generator and maintainer."
 url: https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin
 date: "2024-01-18 00:56:06"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose:
 ---
 

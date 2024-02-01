@@ -2,7 +2,7 @@
 page-title: "kemayo/obsidian-smart-links"
 url: https://github.com/kemayo/obsidian-smart-links
 date: "2024-01-18 08:18:13"
-tags: sw/plugin
+tags: A/sw/plugin
 purpose:
 extends: "[[Obsidian]]"
 ---

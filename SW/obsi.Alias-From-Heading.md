@@ -2,7 +2,7 @@
 page-title: "basham/obsidian-alias-from-heading: Obsidian plugin: Implicitly add an alias matching the first heading in a document."
 url: https://github.com/basham/obsidian-alias-from-heading
 date: "2024-01-18 02:47:06"
-tags: obsi/plugin
+tags: A/sw/obsi/plugin
 purpose: headings
 ---
 
