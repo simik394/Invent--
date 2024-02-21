@@ -41,22 +41,42 @@ We are happy to announce the release of [Hypermedia Systems](https://hypermedia
 
 
 # docs
-[</> htmx ~ Documentation](https://htmx.org/docs/#ajax)
+[</> htmx ~ Documentation](https://htmx.org/docs)
+info-shard:: [[ htmx ~ Documentation 584991ef-c28a-4acb-a71e-59e866babb95|htmx ~ Documentation]]
+
+# Essays
+- [</> htmx ~ Essays](https://htmx.org/essays/)
+- [</> htmx ~ When Should You Use Hypermedia?](https://htmx.org/essays/when-to-use-hypermedia/)
+- [</> htmx ~ Hypermedia-Friendly Scripting](https://htmx.org/essays/hypermedia-friendly-scripting/)
 
 # examples
-[</> htmx ~ Examples](https://htmx.org/examples/)
-[</> htmx ~ A Real World React -> htmx Port](https://htmx.org/essays/a-real-world-react-to-htmx-port/)
+- [</> htmx ~ Examples](https://htmx.org/examples/)
+IShard:: [[ htmx ~ Examples 18497d03-a01c-4302-9320-8343ec55efdc]]
+
+- [</> htmx ~ A Real World React -> htmx Port](https://htmx.org/essays/a-real-world-react-to-htmx-port/)
+
+## used on
+- [Welcome to a World of OCaml](https://ocaml.org/)
+- [Zorro - Project management web app](https://zorro.management/)
+
+
+
 # playgrounds
-[HTML Online Viewer](https://html.onlineviewer.net/)
-[HTMX Playground (playcode.io)](https://playcode.io/1716471)
-[HTMX Playground (htmx-playground.vercel.app)](https://htmx-playground.vercel.app/)
+- [HTML Online Viewer](https://html.onlineviewer.net/) 
+- [HTMX Playground (playcode.io)](https://playcode.io/1716471)
+- [HTMX Playground (htmx-playground.vercel.app)](https://htmx-playground.vercel.app/)
+
+
 
 # comparisons
 down:: [[HTMXvsReact]]
 
+
+
 # combos
 down:: [[HTMX-hyperscript]]
-down:: [[HTMX-React]]
+down:: [[htmx+react]]
+
 
 # other
 podcast - [HTMX, Hyperscript, and More! | HTML All The Things](https://www.htmlallthethings.com/blog-posts/htmx-hyperscript-and-more)

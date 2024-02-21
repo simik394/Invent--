@@ -4,6 +4,8 @@
 
 
 
+# reM
+[Starting Syncthing Automatically — Syncthing documentation](https://docs.syncthing.net/users/autostart#using-systemd)
 
 
 

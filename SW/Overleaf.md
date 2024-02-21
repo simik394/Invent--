@@ -4,7 +4,7 @@ hosting:
   - Self-hosted
 tags:
   - A/sw/web-app
-primary_use: "[[Writing.Academic]]"
+primary_use: "[[Writing]]"
 ---
 
 LaTex editor
