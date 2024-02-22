@@ -4,7 +4,7 @@ url: https://github.com/meld-cp/obsidian-build
 date: 2024-01-18 08:29:41
 tags:
   - A/sw/plugin
-  - ⭐/interesting
+  - M/⭐/interesting
 purpose:
   - scripting
 extends:

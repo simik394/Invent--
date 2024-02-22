@@ -1,6 +1,7 @@
 ---
 tags:
-  - ⭐
+  - M/⭐
+url: https://neovim.io/
 ---
 > [!NOTE]- purposeless
 > ```dataview

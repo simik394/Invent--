@@ -4,7 +4,7 @@ url: https://github.com/HananoshikaYomaru/obsidian-run
 date: 2024-01-18 08:26:13
 tags:
   - A/sw/plugin
-  - ⭐/interesting
+  - M/⭐/interesting
 purpose:
   - gen-md
 extends:

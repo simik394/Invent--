@@ -4,7 +4,7 @@ url: https://developers.google.com/chart/interactive/docs/gallery/timeline?authu
 date: 2024-01-19 18:20:22
 tags:
   - A/sw/library
-  - cached_in/1N
+  - F/1n
 purpose:
   - visualize
 up:

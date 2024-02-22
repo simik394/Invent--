@@ -3,8 +3,8 @@ page-title: Welcome - Eleanor's Notes - Obsidian Publish
 url: https://publish.obsidian.md/eleanorkonik/00+Meta/03+Guidance/Welcome
 date: 2024-01-18 19:41:27
 tags:
-  - IShard/example/Obsidian-Vault
-  - IShard/example/obsi-Vault
+  - F/example/Obsidian-Vault
+  - F/example/obsi-Vault
 ---
 
 Welcome to the personal notes of Eleanor Konik. This vault is meant to showcase how I personally use Obsidian to manage a variety of things. My interests are generally in the areas of obscure science & weird history, but I also take notes about software, my fantasy world [Verraine](https://publish.obsidian.md/eleanorkonik/10+Indexes/13+Stories/Verraine), parenting, and gardening. These are working notes, genuine and messy, but I hope you find something valuable here.

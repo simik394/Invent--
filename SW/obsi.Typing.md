@@ -4,7 +4,7 @@ url: https://github.com/konodyuk/obsidian-typing
 date: 2024-01-18 08:44:05
 tags:
   - A/sw/plugin
-  - ⭐/interesting
+  - M/⭐/interesting
 purpose: 
 extends:
   - "[[Obsidian]]"

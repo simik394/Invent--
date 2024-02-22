@@ -4,7 +4,7 @@ url: https://github.com/akaalias/obsidian-shuffle
 date: "2024-01-18 22:33:31"
 tags: 
 - A/sw/plugin
-- ⭐
+- M/⭐
 purpose: 
 - writing
 - autocompletion

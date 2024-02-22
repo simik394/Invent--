@@ -4,7 +4,7 @@ url: https://github.com/chrisgrieser/grappling-hook
 date: "2024-01-18 00:12:31"
 tags: 
     - A/sw/obsi/plugin
-    - ⭐
+    - M/⭐
 purpose: speed
 ---
 

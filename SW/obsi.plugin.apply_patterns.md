@@ -1,6 +1,6 @@
 ---
 tags:
-  - ⭐/learn-to-use
+  - M/⭐/learn-to-use
 extends:
   - "[[Obsidian]]"
 url: https://github.com/jglev/obsidian-apply-patterns-plugin
