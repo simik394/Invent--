@@ -1,6 +1,6 @@
 ---
 tags:
-  - F/1n
+  - S/1n
 ---
 # dev wiki
 

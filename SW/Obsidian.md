@@ -34,6 +34,11 @@ path:(Inv/SW) file:(obsi)
 > ```
 
 
+> [!NOTE]- gallery plugins
+> ```dataview
+> list from #A/sw/plugin/gallery-view and [[Obsidian]]
+> ```
+
 [[TfT Hacker#Obsidian Plugins by TfT Hacker]]
 ### Apply patterns
 ![[obsi.plugin.Apply_Patterns]]

@@ -1,14 +1,23 @@
 ---
 doc: https://developers.google.com/apps-script
 ---
-# Apps  Script
+# using external libraries
+[[Load External JavaScript Libraries in Google Scripts with eval() - Digital Inspiration 9feeac1a-f32e-40b4-9f9a-9765deaba792]]
+- [Extend Google Apps Script with your API library to empower users - Google for Developers (googleblog.com)](https://developers.googleblog.com/2021/10/extend-google-apps-script-with-your-api.html)
+
+> [!magenta]- external libs + local developing
+> ```dataview
+> list
+> from [[Apps Script]] and #C/tutorial  
+> ```
+
 # <u>1. Reference</u>
 - [[AppsScript.Reference]]
 - [Reference overview  |  Apps Script  |  Google for Developers](https://developers.google.com/apps-script/reference)
 
-# <u>2. Guides</u> 
+# <u>2. Guides</u> %% fold %%
 [overview](https://developers.google.com/apps-script/overview)
-## -Screenshots
+## -Screenshots %% fold %%
 [Google Apps Script overview  |  Google for Developers](https://developers.google.com/apps-script/overview)
 ![[Pasted image 20231231133629.png]]
 
@@ -53,7 +62,7 @@ down:: [[g.Create third-party resources]]
 ### gSheets
 down:: [[gDev Extract data from smart chips in your Google Sheets]]
 
-# <u>3. Samples</u>
+# <u>3. Samples</u> %% fold %%
 
 ## -Screenshots
 [Apps Script samples overview  |  Google for Developers](https://developers.google.com/apps-script/samples)

@@ -7,9 +7,13 @@
 
 [[Inv/SW/DBeawer]]
 
+# ERD
+- [A Guide to the Entity Relationship Diagram (ERD) - Database Star](https://www.databasestar.com/entity-relationship-diagram/)
+- [A Closer Look at UML Notation for Entity Relationship Diagrams (diagramio.com)](https://diagramio.com/entity-relationship-diagram-uml-notation)
+- [Guide to entity-relationship diagram notations & symbols | Gleek | Gleek](https://www.gleek.io/blog/er-symbols-notations.html)
 
 # Conceptual
-## gen def
+## gen def %% fold %%
 A **conceptual data model** serves as a foundational blueprint for designing a database system. Let’s delve into its purpose, characteristics, and how it fits into the broader data modeling process:
 
 1. **Purpose of a Conceptual Data Model**:
@@ -32,8 +36,8 @@ A **conceptual data model** serves as a foundational blueprint for designing a d
     - **Logical Model**: Works out attribute details and relationships, without technical implementation concerns.
     - [**Physical Model**: Considers database technology, table design, and keys](https://www.gleek.io/blog/conceptual-data-model.html)[1](https://www.gleek.io/blog/conceptual-data-model.html).
 
-In summary, the **conceptual data model** is where creativity meets planning—a crucial step before diving into the nitty-gritty of database construction. 🌟
-## gen how-to
+In summary, the **conceptual data model** is where creativity meets planning—a crucial step before diving into the nitty-gritty of database construction. 🌟 
+## gen how-to %% fold %%
 A **conceptual data model** serves as a high-level blueprint for designing a database system. It helps database designers and administrators plan ahead, ensuring consistency and preventing costly mistakes during the database construction process. Let’s delve into the key aspects of creating a conceptual data model:
 
 1. **Overview and Scope**:
