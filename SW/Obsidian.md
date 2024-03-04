@@ -34,10 +34,22 @@ path:(Inv/SW) file:(obsi)
 > ```
 
 
+
+
 > [!NOTE]- gallery plugins
 > ```dataview
 > list from #A/sw/plugin/gallery-view and [[Obsidian]]
 > ```
+
+
+
+
+> [!NOTE]- homepages
+> ```dataview
+> list
+> from [[Obsidian]] and #A/sw/plugin and #F/homepage 
+> ```
+
 
 [[TfT Hacker#Obsidian Plugins by TfT Hacker]]
 ### Apply patterns

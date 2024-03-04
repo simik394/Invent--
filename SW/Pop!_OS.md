@@ -5,6 +5,10 @@ ff:
   - "[[system76.com]]"
 ---
 
+Docs: [Navigate Pop!_OS - Pop!_OS Documentation (pop-os.github.io)](https://pop-os.github.io/docs/navigate-pop/navigate-pop.html)
+
+
+
 tool for creating bootable usb: [balenaEtcher - Flash OS images to SD cards & USB drives](https://etcher.balena.io/)
 
 bacis: [[Pop!_OS Basics - System76 Support 86ec6245-1041-402b-bf6e-4af7f6dc3df8]]

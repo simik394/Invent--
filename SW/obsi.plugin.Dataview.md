@@ -3,7 +3,7 @@ purpose:
   - view
   - search
 ---
-
++
 # Community sources
 ## .troubleshooting
 [Troubleshooting a Dataview field - Help - Obsidian Forum](https://forum.obsidian.md/t/troubleshooting-a-dataview-field/41162/3)

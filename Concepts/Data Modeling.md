@@ -1,5 +1,15 @@
 
 
+
+
+# graph DB schema
+
+
+# Mermaid
+- [Class diagrams | Mermaid](https://mermaid.js.org/syntax/classDiagram.html)
+[[mermaid.js.org]]
+
+
 # Relational data modeling tools 
 - [ERBuilder data modeler features comparison matrix - Softbuilder (soft-builder.com)](https://soft-builder.com/features/)
 - [Luna Modeler: A Powerful Database Design Tool (datensen.com)](https://www.datensen.com/data-modeling/luna-modeler-for-relational-databases.html)
