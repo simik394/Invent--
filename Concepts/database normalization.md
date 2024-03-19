@@ -8,3 +8,9 @@ date: "2024-02-28 00:43:22"
 
 ---
 
+# normal forms 
+```dataview
+table state
+from [[database normalization]] and #A/data/normal-forms 
+```
+

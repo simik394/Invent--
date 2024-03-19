@@ -12,8 +12,13 @@ table
 from #g
 
 ```
+- [CodeMirror 5 User Manual](https://codemirror.net/5/doc/manual.html#usage)
+- [codemirror-vim/src/vim.js at master · replit/codemirror-vim · GitHub](https://github.com/replit/codemirror-vim/blob/master/src/vim.js)
+
 
 # plugins
+- [Development workflow - Developer Documentation (obsidian.md)](https://docs.obsidian.md/Plugins/Getting+started/Development+workflow)
+
 
 > [!NOTE]- List
 > ```query

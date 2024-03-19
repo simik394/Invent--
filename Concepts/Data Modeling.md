@@ -1,23 +1,92 @@
 
 
+# related
+[[extreme programming#YAGNI|YAGNI]]
 
+# agile %% fold %% 
+
+```dataview
+table state, quality
+from [[Data Modeling]] and [[agile]]
+```
+> [!params]-
+> ```
+> - F/blog
+> - A/data
+> - C/guide
+> - P/bp
+> about: 
+> - "[[Data Modeling]]"
+> - "[[agile]]"
+> ```
 
 # graph DB schema
+## sources
+### neo4j docs %% fold %%
+Table:
+```dataview
+table length, state
+from #F/Docs and #A/data/graph and [[neo4j.db]] and [[Data Modeling]]
+sort section-Order ascending
+```
+> [!params]-
+> ```
+> - F/Docs 
+> - A/data/graph
+> about: 
+> - "[[neo4j.db]]"
+> - "[[Data Modeling]]"
+> section-Order: 
+> ```
+
+### blogs (bez hierarchii) %% fold %%
+Table:
+```dataview
+table state, length
+from #F/blog and #A/data/graph and ![[hierarchies]] and [[Data Modeling]]
+```
+> [!params]-
+> ```
+> - F/blog
+> - A/data/graph
+> - C/
+> - P/bp
+> about: "[[Data Modeling]]"
+> ```
+
+### hierarchies %% fold %%
+Table:
+```dataview
+table length, state
+from #F/blog and #A/data/graph and [[hierarchies]]
+```
+> [!params]-
+> ```
+> - F/blog
+> - A/data/graph
+> - C/
+> - P/bp
+> about: 
+> - "[[Data Modeling]]"
+> - "[[hierarchies]]"
+> ```
+
+## information
 
 
-# Mermaid
+# Mermaid %% fold %% 
 - [Class diagrams | Mermaid](https://mermaid.js.org/syntax/classDiagram.html)
 [[mermaid.js.org]]
 
 
-# Relational data modeling tools 
+# Relational data modeling tools  %% fold %% 
 - [ERBuilder data modeler features comparison matrix - Softbuilder (soft-builder.com)](https://soft-builder.com/features/)
 - [Luna Modeler: A Powerful Database Design Tool (datensen.com)](https://www.datensen.com/data-modeling/luna-modeler-for-relational-databases.html)
 - [DbSchema | Community & Pro Editions](https://dbschema.com/editions.html)
 
 [[Inv/SW/DBeawer]]
 
-# ERD
+# ERD %% fold %% 
 - [A Guide to the Entity Relationship Diagram (ERD) - Database Star](https://www.databasestar.com/entity-relationship-diagram/)
 - [A Closer Look at UML Notation for Entity Relationship Diagrams (diagramio.com)](https://diagramio.com/entity-relationship-diagram-uml-notation)
 - [Guide to entity-relationship diagram notations & symbols | Gleek | Gleek](https://www.gleek.io/blog/er-symbols-notations.html)
