@@ -7,4 +7,3 @@
 
 Setup
 - [Setup MariaDB Server · frappe/frappe Wiki (github.com)](https://github.com/frappe/frappe/wiki/Setup-MariaDB-Server)
-- 
