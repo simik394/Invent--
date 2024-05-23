@@ -22,10 +22,16 @@ from [[Data Modeling]] and [[agile]]
 
 # graph DB schema
 ## sources
+### pdfs
+GraphDatabases OReilly:
+```add-summary
+tags: #a/data/modeling/graph/general 
+```
+
 ### neo4j docs %% fold %%
 Table:
 ```dataview
-table length, state
+table length, state, contentQuality
 from #F/Docs and #A/data/graph and [[neo4j.db]] and [[Data Modeling]]
 sort section-Order ascending
 ```

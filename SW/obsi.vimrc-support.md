@@ -816,7 +816,7 @@ links:editor-convert-wikilinks-to-mdlinks
 links:editor-copy-link-destination-to-clipboard
 links:editor-create-link-from-clipboard
 links:editor-create-link-from-selection
-links:editor-delete-link
+links:editor-delete-link05:19:20
 links:editor-edit-link-destination
 links:editor-edit-link-text
 links:editor-embed-link
