@@ -1,19 +1,18 @@
 ---
-page-title: "ivan-lednev/better-search-views: Outliner-like breadcrumb trees for search, backlinks and embedded queries"
-url: https://github.com/ivan-lednev/better-search-views
-date: "2024-04-08 20:10:31"
-tags: 
-- A/sw/plugin
-- F/homepage
-- C/
-- P/
+id: ivan-lednevbetter-search-views Outliner-like breadcrumb trees for search, backlinks and embedded queries
+aliases:
+  - bf414d69-7b02-4b2b-a66e-9e4604a03071
+  - ivan-lednev/better-search-views  Outliner-like breadcrumb trees for search, backlinks and embedded queries
+tags:
+  - #A/sw/plugin
+  - #F/homepage
+  - #C/t
+  - #P/t
 about: "[[Obsidian]]"
-aliases: 
-- bf414d69-7b02-4b2b-a66e-9e4604a03071
-- ivan-lednev/better-search-views: Outliner-like breadcrumb trees for search, backlinks and embedded queries
-by: 
+date: 2024-04-08 20:10:31
 length: 1983
-dir: 
+page-title: ivan-lednev/better-search-views  Outliner-like breadcrumb trees for search, backlinks and embedded queries
+url: https://github.com/ivan-lednev/better-search-views
 ---
 
 ## Better Search Views

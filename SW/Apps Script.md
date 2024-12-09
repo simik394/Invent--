@@ -2,7 +2,7 @@
 doc: https://developers.google.com/apps-script
 ---
 # using external libraries
-[[Load External JavaScript Libraries in Google Scripts with eval() - Digital Inspiration 9feeac1a-f32e-40b4-9f9a-9765deaba792]]
+[[myDM/captured/Docs/Load External JavaScript Libraries in Google Scripts with eval() - Digital Inspiration 9feeac1a-f32e-40b4-9f9a-9765deaba792]]
 - [Extend Google Apps Script with your API library to empower users - Google for Developers (googleblog.com)](https://developers.googleblog.com/2021/10/extend-google-apps-script-with-your-api.html)
 
 > [!magenta]- external libs + local developing
@@ -23,16 +23,16 @@ doc: https://developers.google.com/apps-script
 
 
 ## Google services and external API
-- [[myDM/Docs/gws.services-extAPI.Build-In Google services]]
-- [[myDM/Docs/gws.services-extAPI.Advanced Google services]]
-- [[myDM/Docs/gws.services-extAPI.Autorization]]
+- [[myDM/captured/Docs/gws.services-extAPI.Build-In Google services]]
+- [[myDM/captured/Docs/gws.services-extAPI.Advanced Google services]]
+- [[myDM/captured/Docs/gws.services-extAPI.Autorization]]
 - [External APIs  |  Apps Script  |  Google for Developers](https://developers.google.com/apps-script/guides/services/external)
 
 ## Types of scripts
 - [[g.AppsScript.Standalone]]
 - [[gAppsScript.type.Bound_to_Container]]
 ## Extending gws
-- [[Extending Google Docs    Apps Script    Google for Developers]]
+- [[myDM/captured/Docs/Extending Google Docs    Apps Script    Google for Developers]]
 - gSheets >
 - gSlides >
 ## Menu, dialogs, and sidebars
@@ -46,12 +46,12 @@ doc: https://developers.google.com/apps-script
 - Restrictions
 - Migrate to IFRAME
 - Web apps
-- [[HTML Service Best Practices    Apps Script    Google for Developers]]
+- [[myDM/captured/Docs/HTML Service Best Practices    Apps Script    Google for Developers]]
 
 ## Store and serve data
-- [[Properties Service    Apps Script    Google for Developers]]
-- [[myDM/Docs/gws.gas.External databases via JDBC]]
-- [[gws.gas.Content-Service]]
+- [[myDM/captured/Docs/Properties Service    Apps Script    Google for Developers]]
+- [[myDM/captured/Docs/gws.gas.External databases via JDBC]]
+- [[myDM/captured/Docs/gws.gas.Content-Service]]
 
 ## Extend editors
 ### core

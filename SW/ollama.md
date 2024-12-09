@@ -29,3 +29,8 @@ Certainly! To change the directory where **OLLAMA** stores its models, follow th
     - **OLLAMA** will now use the specified directory for storing its models.
 
 Remember that this approach allows you to customize the storage location according to your needs. [Enjoy your updated model storage! 🚀](https://github.com/ollama/ollama/issues/2551)[1](https://github.com/ollama/ollama/issues/2551)[2](https://github.com/ollama/ollama/issues/1737)[3](https://github.com/ollama/ollama/issues/1165).
+
+# docker
+https://hub.docker.com/r/ollama/ollama - docker image + guide to using
+## start as service linux
+https://github.com/ollama/ollama/blob/main/docs/linux.md

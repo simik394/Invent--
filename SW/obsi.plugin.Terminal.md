@@ -1,3 +1,6 @@
+---
+url: https://github.com/polyipseity/obsidian-terminal
+---
 
 **[Repository](https://github.com/polyipseity/obsidian-terminal) · [Changelog](https://github.com/polyipseity/obsidian-terminal/blob/main/CHANGELOG.md) · [Community plugin](https://obsidian.md/plugins?id=terminal) · [Other things](https://github.com/polyipseity/obsidian-monorepo) · [Features](app://obsidian.md/index.html#features) · [Installation](app://obsidian.md/index.html#installation) · [Usage](app://obsidian.md/index.html#usage) · [Contributing](app://obsidian.md/index.html#contributing) · [Security](app://obsidian.md/index.html#security)**
 
@@ -189,3 +192,4 @@ When translating, keep in mind the following things:
 
 - The keys under `generic` are vocabularies. They can be referred in translation strings by `$t(generic.key)`. Refer to them as much as possible to standardize translations for vocabularies that appear in different places.
 - It is okay to move interpolations and references to other localized strings around to make the translation natural. It is also okay to not use some references used in the original translation. However, it is NOT okay to not use all interpolations.
+

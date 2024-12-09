@@ -1,6 +1,6 @@
 ---
 tags: 
--> Project: "[[BP/README]]"
+-> Project: "[[Prods/120-BP/README]]"
 ---
 Scripts can extend certain Google products by adding user-interface elements that, when clicked, execute an Apps Script function. The most common example is running a script from a custom menu item in Google Docs, Sheets, Slides, or Forms, but script functions can also be triggered by clicking on images and drawings in Google Sheets.
 

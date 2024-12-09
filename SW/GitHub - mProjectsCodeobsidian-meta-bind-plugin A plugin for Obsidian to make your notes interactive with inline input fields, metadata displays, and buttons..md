@@ -3,10 +3,10 @@ page-title: "GitHub - mProjectsCode/obsidian-meta-bind-plugin: A plugin for Obsi
 url: https://github.com/mProjectsCode/obsidian-meta-bind-plugin
 date: "2024-03-03 17:06:24"
 tags: 
-- A/sw/plugin
+- A/sw/plugin/interactivity
 - F/homepage
 - C/
-- P/
+- P/pwf
 about: "[[Obsidian]]"
 uuid: b6b715b4-9a38-46ed-9552-37ec3541e424
 ---

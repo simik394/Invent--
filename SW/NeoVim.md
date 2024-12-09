@@ -58,18 +58,28 @@ gj - by 1 visual line down
 > list from [[NeoVim]] and [[Lua]]
 > ```
 
-> [!NOTE]- javascript (web-dev) in neovim
+> [!NOTE] javascript (web-dev) in neovim
 > ```dataview
 > list from [[NeoVim]] and [[JavaScript]]
 > ```
 
-> [!NOTE]- guides
+> [!NOTE] guides
 > ```dataview
 > list
-> from #C/guide and [[NeoVim]] 
+> from #C/guide and [[NeoVim]] and !#A/sw/config and ![[Inv/SW/latex|latex]] and ![[Inv/Languages/JavaScript|JavaScript]]
 > ```
 
+> [!NOTE] config (structure to multiple files, ...)
+> ```dataview
+> list
+> from ( #C/guide )and [[NeoVim]] and #A/sw/config 
+> ```
 
+> [!NOTE] latex
+> ```dataview
+> list
+> from #C/guide and [[NeoVim]] and [[Inv/SW/latex|latex]] 
+> ```
 
 ## config
 * [nvim configuration - Hledat](https://www.bing.com/search?q=nvim+configuration&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=nvim+configuration&sc=11-18&sk=&cvid=26AF47F03FA0436F848CD31E4C8850C2&ghsh=0&ghacc=0&ghpl=)

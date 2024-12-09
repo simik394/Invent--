@@ -1,20 +1,18 @@
 ---
+id: joshuaktofit File gIT (FIT) to sync your files across mobile and desktop devices using GitHub.
+aliases:
+  - e14e6732-399a-4110-8b49-a98a803e0eda
+  - joshuakto/fit File gIT (FIT) to sync your files across mobile and desktop devices using GitHub.
+tags:
+  - A/sw/plugin/sync
+  - F/homepage
+  - C/
+  - P/
+about: "[[Obsidian]]"
+date: 2024-04-10 13:02:13
+length: 1886
 page-title: "joshuakto/fit: File gIT (FIT) to sync your files across mobile and desktop devices using GitHub."
 url: https://github.com/joshuakto/fit
-date: "2024-04-10 13:02:13"
-tags: 
-- A/sw/plugin/sync
-- F/homepage
-- C/
-- P/
-- M/:star:
-about: "[[Obsidian]]"
-aliases: 
-- e14e6732-399a-4110-8b49-a98a803e0eda
-- joshuakto/fit: File gIT (FIT) to sync your files across mobile and desktop devices using GitHub.
-by: 
-length: 1886
-dir: 
 ---
 
 ## FIT

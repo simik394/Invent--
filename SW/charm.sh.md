@@ -1,7 +1,7 @@
 ---
 url: https://charm.sh
 libFor:
-  - "[[ssh]]"
+  - "[[Inv/SW/ssh]]"
   - "[[terminal]]"
 ---
 

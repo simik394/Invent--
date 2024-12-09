@@ -1,9 +1,11 @@
 ---
 page-title: "Richardsl/heatmap-calendar-obsidian: An Obsidian plugin for displaying data in a calendar similar to the github activity calendar"
 url: https://github.com/Richardsl/heatmap-calendar-obsidian
-date: "2024-01-18 00:31:02"
-tags: A/sw/obsi/plugin
-purpose:
+date: 2024-01-18 00:31:02
+tags:
+  - A/sw/obsi/plugin
+related_to: "[[Prods/pwf/_goals/visualize answers to queries from obsidian data|visualize answers to queries from obsidian data]]"
+purpose: 
 ---
 
 ## Heatmap Calendar plugin for Obsidian
