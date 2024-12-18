@@ -4,7 +4,7 @@ url: "https://www.beeper.com/"
 ![](https://cdn.prod.website-files.com/5ffc199ed786423eb2569667/65eae990d904d2547ae7714f_hero%20stars.svg)![](https://cdn.prod.website-files.com/5ffc199ed786423eb2569667/65eae990608962debd5bd167_hero%20clouds%20svg.svg)
 
 # screenshots
-![[Screenshot from 2024-11-14 20-14-14.png]]
+![[myDM/Logs/daily/attachments/Screenshot from 2024-11-14 20-14-14.png]]
 
 # homepage
 ## Securely connect your chat networks

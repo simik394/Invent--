@@ -9,11 +9,11 @@ tags:
   - P/pwf
 about:
   - "[[NeoVim]]"
-  - "[[Inv/SW/latex|LaTeX]]"
+  - "[[Inv/Languages/latex|LaTeX]]"
 aliases: 
 by: 
 length: 11474
-dir:
+dir: 
 ---
 
 ## VimTeX

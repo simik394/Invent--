@@ -1,11 +1,17 @@
 ---
 page-title: "latex-lsp/texlab: An implementation of the Language Server Protocol for LaTeX"
 url: https://github.com/latex-lsp/texlab
-date: "2024-06-21 03:55:53"
-tags: [A/sw/plugin/lsp, F/prod/homepage, C/, P/pwf]
-about: ["[[NeoVim]]","[[latex]]"]
-aliases: 
-- 
+date: 2024-06-21 03:55:53
+tags:
+  - A/sw/plugin/lsp
+  - F/prod/homepage
+  - C/
+  - P/pwf
+about:
+  - "[[NeoVim]]"
+  - "[[Inv/Languages/latex]]"
+aliases:
+  - 
 by: 
 length: 2438
 dir: 
